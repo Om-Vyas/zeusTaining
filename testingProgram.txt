@@ -1,3 +1,3 @@
 hey this is test program.
 test method is this.
-confi of local.
+confi of local.conflict.
