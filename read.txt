@@ -1,9 +1,0 @@
-
-Yesterday:
-1. Watch video on youtube to learn about CSS preprocessor.
-2. Watch “Build Components in HTML, CSS & JS” course on Scrimba.
-3. Watch “Web Accessibility” course on Udacity.
-4. Convert the CSS written for the login page with Sass.
-
-Today:
-1. Convert the css written for the dashboard page with Sass.
